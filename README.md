@@ -35,7 +35,7 @@ The README documents the bug and the fix in detail — I think it's more interes
 
 MLOps / ML Engineer roles where reliability and testing discipline matter as much as model performance — which, coming from a QA background, is exactly where I add unusual value.
 
-📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/moazzam-m-6a736b8b/) · Open to relocation across the Gulf region
+📬 Let's connect: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moazzam-m-6a736b8b/) · Open to relocation across the Gulf region
 <!--
 **Moazzam-Matin/Moazzam-Matin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

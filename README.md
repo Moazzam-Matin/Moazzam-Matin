@@ -1,6 +1,6 @@
 # Hi, I'm Moazzam Matin 👋
 
-**QA/Automation Engineer (8+ years) → MLOps Engineer**
+**MLOps Engineer | Data Pipeline Architect | Python Infrastructure Specialist**
 
 I spent 8+ years building test automation for embedded/infotainment systems (Bluetooth, Wi-Fi, OTA validation) — deep experience in CI-style regression testing, reliability, and catching bugs before they ship. I'm now applying that same discipline to ML systems: experiment tracking, automated testing, containerized deployment, and CI/CD pipelines that actually run.
 

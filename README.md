@@ -28,7 +28,50 @@ I spent 8+ years building test automation for embedded/infotainment systems (Blu
 
 ---
 
-### 🚗 Featured Project: Gulf Auto Price Intelligence
+### 🚀 Featured Projects
+
+#### 1. maarg — Lightweight Python Experiment Tracking
+
+[![PyPI](https://img.shields.io/pypi/v/maarg?style=flat-square)](https://pypi.org/project/maarg/)
+[![Python](https://img.shields.io/pypi/pyversions/maarg?style=flat-square)](https://pypi.org/project/maarg/)
+[![License](https://img.shields.io/pypi/l/maarg?style=flat-square)](https://github.com/Moazzam-Matin/maarg/blob/main/LICENSE)
+
+**Track Experiments with Zero Boilerplate.**
+
+An open-source, local-first Python experiment tracker. With a simple `@track` decorator, maarg automatically captures function inputs, metrics, artifacts, execution time, and failures — without manual logging or a tracking server.
+
+- Automatic experiment and function tracking.
+- Local SQLite storage.
+- Artifact capture and visualization support.
+- Query, filter, compare, and rank experiment runs.
+
+**Tech:** Python, SQLite, Matplotlib, Pytest
+
+🔗 [GitHub Repository](https://github.com/Moazzam-Matin/maarg) | [PyPI Package](https://pypi.org/project/maarg/)
+
+#### 2. Recommendation Engine — ML Engineering & Deployment
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)](https://mlflow.org/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+
+A movie recommendation engine built using the MovieLens 1M dataset and item-based collaborative filtering.
+
+The project demonstrates practical ML engineering workflows, from model development and offline evaluation to experiment tracking, model persistence, testing, and containerized inference.
+
+- Item-based collaborative filtering.
+- Offline recommendation evaluation.
+- MLflow experiment tracking.
+- Model persistence using Joblib.
+- Dockerized FastAPI inference service.
+- Automated testing and GitHub Actions CI.
+
+**Tech:** Python, Scikit-learn, Pandas, NumPy, SciPy, MLflow, Joblib, FastAPI, Docker
+
+🔗 [GitHub Repository](https://github.com/Moazzam-Matin/recommendation-engine)
+
+#### 3. Gulf Auto Price Intelligence
 
 An end-to-end MLOps pipeline predicting used car prices in the UAE market. Not just a trained model — a full engineering system: MLflow tracking, a leakage-safe pipeline (I found and fixed a real data-leakage bug, then wrote a regression test to prevent it recurring), a tested FastAPI service, and GitHub Actions CI that runs the test suite and builds a Docker image on every push.
 
@@ -42,20 +85,6 @@ The README documents the bug and the fix in detail — I think it's more interes
 
 MLOps / ML Engineer roles where reliability and testing discipline matter as much as model performance — which, coming from a QA background, is exactly where I add unusual value.
 
-📬 Let's connect: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moazzam-m-6a736b8b/) 
+📬 Let's connect: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moazzam-m-6a736b8b/)
 
 Open to relocation across the Gulf region
-<!--
-**Moazzam-Matin/Moazzam-Matin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

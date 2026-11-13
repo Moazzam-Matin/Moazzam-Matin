@@ -31,7 +31,7 @@ I spent 8+ years building test automation for embedded/infotainment systems (Blu
 ### 🚀 Featured Projects
 
 #### 1. maarg — Lightweight Python Experiment Tracking
-
+[![PyPI Downloads](https://static.pepy.tech/personalized-badge/maarg?period=total&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=GREEN&left_text=downloads)](https://pepy.tech/projects/maarg)
 [![PyPI](https://img.shields.io/pypi/v/maarg?style=flat-square)](https://pypi.org/project/maarg/)
 [![Python](https://img.shields.io/pypi/pyversions/maarg?style=flat-square)](https://pypi.org/project/maarg/)
 [![License](https://img.shields.io/pypi/l/maarg?style=flat-square)](https://github.com/Moazzam-Matin/maarg/blob/main/LICENSE)
